@@ -1,0 +1,120 @@
+body{
+    /*background-color:rgb(79, 79, 80);*/
+    color:rgb(77, 131, 150);
+    font-family:'Courier New', Courier, monospace;
+    background-image: linear-gradient(grey 38%,white 64%);
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+
+.btn1{
+    
+    padding: 2px 5px;
+    color:black;
+    border-color: rgb(208, 208, 216);
+    border-width: 5px;
+    border-radius: 5px;
+    border-style:groove;
+    text-align: center;
+    text-shadow: rgb(1, 1, 20);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style:normal;
+    font-size: 16px;
+    background-image: linear-gradient(180deg ,white,grey);
+    position:relative;
+    left:45%;
+    top:50%;
+    
+}
+    
+table,tr,td,th{
+    color:black;
+    background-color: white;
+    border-collapse: collapse;
+    border-style: solid; 
+    border-color: black;
+    border-width: 2px;
+    margin:12px;
+    padding: 8px;
+    font-size: 15px;
+}
+form{
+  
+   
+    background-color: rgb(30, 30, 32);
+    color: oldlace;
+    border-width: 5px;
+    border-color:rgb(51, 50, 49);
+    border-style:groove;
+    border-radius:10px;
+    width:60%;
+    margin:0% 20% 0% 20%;
+    /*padding: 0px ;
+    align-items: center;
+    position: absolute;
+    margin:10px 400px;
+    width:50%;*/
+    
+     
+}
+
+div{
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+    padding:10px 50px;
+    
+}
+
+a{
+    color:rgb(74, 74, 214);
+    font-family:'Courier New', Courier, monospace;
+    font-size:small;
+    
+}
+
+p{
+    color:rgb(245, 241, 241);
+    font-style:italic;
+    font-size:small;
+    font-style: italic;
+    font-family:'Courier New', Courier, monospace;
+    padding:0px 50px;
+
+}
+
+h1{
+    color:white;
+    background-color: black;
+    margin: 0px;text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    border-bottom:2px white dotted;
+  
+}
+ h3{
+
+    text-align: center;
+    padding:1px;background-color: red;color: white;
+    position: relative;
+    width:100%
+
+      
+ }
+
+#table_div{
+    background-color:white;
+    color: black;
+    height: 50%;
+    padding:20px 20px 20px 20px;
+  
+}
+label{
+    position: relative;
+    left:10px;
+    
+}
+input,select,textarea{
+    position: absolute;
+    left:45%;
+   
+}

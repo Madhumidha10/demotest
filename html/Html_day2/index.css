@@ -1,0 +1,20 @@
+body{
+    background-color: #eee;
+}
+.fa{
+    color:#4183D7;
+}
+a{
+    border-bottom:1px solid #4183D7;
+}
+.box-part{
+    margin:20px 10px;
+    padding:60px 10px;
+    background-color: white;
+}
+.text{
+ margin: 20px 0px;
+}
+.box{
+    padding: 60px 0px;
+}

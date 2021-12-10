@@ -1,0 +1,55 @@
+RWD
+Media Queries
+Intro To Bootstrap
+Drop Down Box
+
+RWD:responsive web design
+
+Media Queries:manual
+Sytnax:
+@media screen {
+          
+      }
+
+Bootstrap 4.6
+
+Bootstrap can be included in 2 ways
+1.CDN:Content delivery network
+2.installing through file
+
+Bootstrap Layouts:
+
+containers?
+
+Grid?
+
+Responsive breakpoints:
+XS:extra small
+sm:small
+md:medium
+lg:large
+xl:extra large
+
+Bootstrap flow of elements:
+1.container
+a.row
+b.column
+
+1.for a container we can have any no of rows
+2.within rows we can have only 12 columns
+3.but we can use less than 12 also,
+4.also we can use beyond 12
+
+
+100->100%
+25->?25%
+
+100->100%
+33->?33.333%
+
+12->100%
+
+12->4:4:4
+
+12->100%
+5->         4/12 *100%
